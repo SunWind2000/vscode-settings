@@ -21,5 +21,4 @@
     ```PowerShell
     pip3 -m install matplotlib
     ```
-4. 执行Python脚本，按`F5`键，选择第一个**Python File**，如下图所示，即可执行：
-    
+4. 执行Python脚本，按`F5`键，选择第一个**Python File**，即可执行，不需要额外安装依赖。
