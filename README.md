@@ -17,6 +17,7 @@
     ```
     激活后，会在PS命令提示符前显示`(.venv)`字符，如下图所示：  
     ![Python激活虚拟环境](./others/Python_Activate_Venv.png)
+    **说明**：若VS Code内置的PowerShell禁止运行脚本，可以以管理员身份打开windows上的powershell，更改执行策略，详见[about_Execution_Policies](https://docs.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2)
 3. 安装相关库，例如：
     ```PowerShell
     pip3 -m install matplotlib
